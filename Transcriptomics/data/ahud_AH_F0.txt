@@ -1,0 +1,4 @@
+
+AH_F0_Rep1_	AH_F0_Rep1_	/data/project_data/RNAseq/cleandata/AH_F0_Rep1_1_clean.fq.gz	/data/project_data/RNAseq/cleandata/AH_F0_Rep1_2_clean.fq.gz
+AH_F0_Rep2_	AH_F0_Rep2_	/data/project_data/RNAseq/cleandata/AH_F0_Rep2_1_clean.fq.gz	/data/project_data/RNAseq/cleandata/AH_F0_Rep2_2_clean.fq.gz
+AH_F0_Rep3_	AH_F0_Rep3_	/data/project_data/RNAseq/cleandata/AH_F0_Rep3_1_clean.fq.gz	/data/project_data/RNAseq/cleandata/AH_F0_Rep3_2_clean.fq.gz
