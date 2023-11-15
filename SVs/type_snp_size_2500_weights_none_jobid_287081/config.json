@@ -1,0 +1,18 @@
+{
+  "input_dir": ["/users/r/v/rviscont/mydata/str_data"],
+  "sample_info": ["/netfiles/ecogen/structural_variation/sample_info.tsv"],
+  "type": ["snp"],
+  "size": [2500],
+  "npc": [2],
+  "nmds": [2],
+  "missing": [0],
+  "subsample": [1],
+  "jobid": ["287081"],
+  "help": [false],
+  "outdir": ["lostruct_results/type_snp_size_2500_weights_none_jobid_287081"],
+  "start.time": ["2023-11-12 16:18:19"],
+  "run.dir": ["/data/users/r/v/rviscont/mydata/str_data"],
+  "weights": [1],
+  "bcf_files": ["/data/users/r/v/rviscont/mydata/str_data/NW_022145598.1_filtered.bcf"],
+  "chrom.names": ["NW_022145598.1"]
+}
